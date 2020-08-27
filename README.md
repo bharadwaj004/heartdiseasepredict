@@ -37,4 +37,4 @@ This project is build using the following models:
 3.	SVM with PCA
 4.	K-NN with PCA
 
-It also contains code for plotting the confusion matrix and Accuracy of each Model.
+It also contains code for plotting the confusion matrix and Accuracy for each Model.
