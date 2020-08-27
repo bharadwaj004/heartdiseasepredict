@@ -31,7 +31,7 @@ The parameters included are :
 -- Value 0: < 50% diameter narrowing
 -- Value 1: > 50% diameter narrowing (Predicted value)
 
-This build ont the following models:
+This project is build using the following models:
 1.	Support Vector Machines (SVM)
 2.	K – nearest neighbor classifier (K-NN)
 3.	SVM with PCA
